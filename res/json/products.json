@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cheese burger",
+    "price": 3,
+    "category": {
+      "id": 1,
+      "name": "Burger"
+    }
+  },
+  {
+    "name": "Mushroom burger",
+    "price": 5,
+    "category": {
+      "id": 1,
+      "name": "Burger"
+    }
+  },
+  {
+    "name": "Beef burger",
+    "price": 3.5,
+    "category": {
+      "id": 1,
+      "name": "Burger"
+    }
+  },
+  {
+    "name": "Pizza margerita",
+    "price": 7.5,
+    "category": {
+      "id": 2,
+      "name": "Pizza"
+    }
+  },
+  {
+    "name": "Pizza océan",
+    "price": 9,
+    "category": {
+      "id": 2,
+      "name": "Pizza"
+    }
+  }
+]
